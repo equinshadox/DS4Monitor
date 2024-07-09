@@ -1,0 +1,24 @@
+Device Name: 	Wireless Controller
+Buttons Total: 	14
+POV Total:	1
+
+X		2
+Square		1
+Circle		3
+Triangle	4
+L1		5
+R1		6
+L2		7
+R2		8
+Options		10
+Share		9
+L3		11
+R3		12
+Touchpad	14
+PS Button	13
+
+DPad Neutral	pov 1 = -1
+DPad Up		pov 1 = 0
+DPad Down	pov 1 = 180
+DPad Left	pov 1 = 270
+DPad Right	pov 1 = 90
